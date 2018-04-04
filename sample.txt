@@ -1,0 +1,5 @@
+hi,world
+hello,world
+this is a sample txt
+use to test file
+start learn
